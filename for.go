@@ -9,10 +9,10 @@ func main() {
 		i = i + 1
 	}
 
-	for j := 0; j < 6; j++ {
+	for j := 0; j < 5; j = j + 2 {
 		fmt.Println("j=", j)
 		j--
-		break
+		fmt.Println("j=", j)
 	}
 	for i := range 6 {
 		fmt.Println("range", i)
