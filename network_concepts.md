@@ -48,3 +48,7 @@
 
 [azure vnet peering vs vpn gw](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vnet-peering)
 
+
+### misc ###
+[TURN](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT)
+[STUN](https://en.wikipedia.org/wiki/STUN)
