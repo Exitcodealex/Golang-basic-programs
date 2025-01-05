@@ -4,3 +4,4 @@ stuff🤷‍♀️ to fix; 😮‍💨😮‍💨😮‍💨
 3. make it default branch
 4. make sure it has only readme and no other files
 5. create pr with your Go branch 🙏🙂
+6. make github actions not crash
